@@ -32,4 +32,4 @@ $ npm install --production
 $ NODE_ENV=production node app
 ```
 
-live site : http://exam.drugregimenreview.com
+live site : https://www.skills-exam.com/login
